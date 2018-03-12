@@ -1,0 +1,16 @@
+[{"team":"New York Mets","address":"Roosevelt Ave & 126th Street, New York, NY 11368","lat":40.75535,"lng":-73.843219},
+{"team":"New York Yankees","address":"Yankee Stadium, E. 161 Street & River Ave., New York, NY 10451","lat":40.819782,"lng":-73.929939},
+{"team":"New York Knicks","address":"Madison Square Garden, 4 Pennsylvania Plaza, New York, New York, NY 10001","lat":40.750504,"lng":-73.993439}]
+
+New York Knicks (Madison Square Garden)
+Lat:range(40,755055,40.750780)
+Lon:range(-73.998674,-73.986916)
+
+New York Yankees (Yankee Stadium)
+Lat:range(40.829613,40.829629)
+Lon:range(-73.930917,-73.921411)
+
+New York Mets
+Lat:range(40.760341,40.753663)
+Lon:range(-73.848697,-73.843010)
+
